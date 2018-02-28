@@ -12,7 +12,7 @@
 ### Horizon
 ## Identity Service
 ### Keystone
-## Container Orchestration
+## Container Orchestration Service
 ### Magnum
 ## Networking Service
 ### Neutron
