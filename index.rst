@@ -32,7 +32,6 @@ The main documentation for the site is organized into a couple sections:
    :caption: About SIM-Cloud
 
    quick-start.md
-   about.md
 
 .. _bestpractice-docs:
 
