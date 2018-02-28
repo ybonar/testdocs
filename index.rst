@@ -37,9 +37,7 @@ Information about development is also available:
    :maxdepth: 2
    :caption: About SIM-Cloud
 
-   quick-start
-   web-panel-overview
-   whats-new-in-SIM-Cloud-3.0
+   quick-start.md
    
 .. _best-practice-docs:
 
