@@ -61,7 +61,8 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: API
 
-   api/*
+   api.md
+   api/getting-started.md
 
 .. _limitations-docs:
 
