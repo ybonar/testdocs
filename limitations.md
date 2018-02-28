@@ -1,5 +1,10 @@
 ## Index
 
-|Service|Item|limitations|Note|
-|-----|-----|----|-----|
-|Nova|Instances|1024 per project||
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
