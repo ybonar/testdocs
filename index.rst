@@ -10,6 +10,8 @@ The main documentation for the site is organized into a couple sections:
 * :ref:`api-docs`
 * :ref:`limitations-docs`
 
+about.md
+
 .. _about-docs:
 
 .. toctree::
