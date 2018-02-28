@@ -1,11 +1,20 @@
-## Metering
+## Telemetry Service
 ### Ceilometer
-## Cinder
-## Designate
-## Duratus
-## Glance
-## Horizon
-## Keystone
-## Magnum
-## Neutron
-## Nova
+## Block Storage Service
+### Cinder
+## DNS as s Service
+### Designate
+## Backup Service
+### Duratus
+## Image Service
+### Glance
+## Web Panel
+### Horizon
+## Identity Service
+### Keystone
+## Container Orchestration
+### Magnum
+## Networking Service
+### Neutron
+## Compute Service
+### Nova
