@@ -33,6 +33,8 @@ The main documentation for the site is organized into a couple sections:
    :caption: Best practice Guide
 
    bestpc-security.md
+   bestpc-instances.md
+   bestpc-resource-management.md
 
 .. _troubleshooting-docs:
 
