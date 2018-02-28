@@ -1,4 +1,4 @@
-Welcome to Read The Docs
+Welcome to SIM-Cloud
 ========================
 
 `Read the Docs`_ hosts documentation for the open source community.
@@ -22,7 +22,7 @@ The code is open source, and `available on GitHub`_.
 
 The main documentation for the site is organized into a couple sections:
 
-* :ref:`user-docs`
+* :ref:`about-docs`
 * :ref:`feature-docs`
 * :ref:`about-docs`
 
@@ -35,20 +35,15 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation
+   :caption: About SIM-Cloud
 
-   getting_started
-   about.md
-   builds
-   features
-   support
-   faq
-   yaml-config
-   guides/index
-   api
-   embed
-
-.. _about-docs:
+   quick-start.md
+   web-panel-overview.md
+   whats-new-in-SIM-Cloud-3.0.md
+   FAQ
+   Templates
+   
+.. _best-practice-docs:
 
 .. toctree::
    :maxdepth: 2
