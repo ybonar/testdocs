@@ -18,7 +18,7 @@ The main documentation for the site is organized into a couple sections:
 
    about.md
    whatsnew.md
-   quick-start.md
+   quickstart.md
 
 .. _bestpractice-docs:
 
