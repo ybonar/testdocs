@@ -35,6 +35,9 @@ The main documentation for the site is organized into a couple sections:
    bestpc-security.md
    bestpc-instances.md
    bestpc-resource-management.md
+   bestpc-networks.md
+   bestpc-storage.md
+   bestpc-backup-restore.md
 
 .. _troubleshooting-docs:
 
