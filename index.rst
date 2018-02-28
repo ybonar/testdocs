@@ -23,12 +23,6 @@ The code is open source, and `available on GitHub`_.
 The main documentation for the site is organized into a couple sections:
 
 * :ref:`about-docs`
-* :ref:`feature-docs`
-
-Information about development is also available:
-
-* :ref:`dev-docs`
-* :ref:`design-docs`
 
 .. _about-docs:
 
@@ -37,71 +31,3 @@ Information about development is also available:
    :caption: About SIM-Cloud
 
    quick-start.md
-   
-.. _feature-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Feature Documentation
-
-   webhooks
-   badges
-   alternate_domains
-   localization
-   vcs
-   subprojects
-   conda
-   canonical
-   single_version
-   privacy
-   user-defined-redirects
-   automatic-redirects
-   features/*
-
-
-.. _dev-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Developer Documentation
-
-   changelog
-   install
-   architecture
-   tests
-   docs
-   development/standards
-   development/buildenvironments
-   symlinks
-   settings
-   i18n
-   issue-labels
-   security
-   api/index
-
-.. _business-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Business Documentation
-
-   business/index
-
-.. _custom-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Custom Install Documentation
-
-   custom_installs/index
-
-.. _design-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Designer Documentation
-
-   design
-   Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
-
