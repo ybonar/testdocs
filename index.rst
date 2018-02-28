@@ -19,6 +19,7 @@ The main documentation for the site is organized into a couple sections:
    about.md
    whatsnew.md
    quickstart.md
+   fag.md
 
 .. _bestpractice-docs:
 
