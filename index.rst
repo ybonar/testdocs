@@ -64,3 +64,11 @@ The main documentation for the site is organized into a couple sections:
    :caption: API
 
    api.md
+
+.. _limitations-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Limitations
+
+   limitations.md
