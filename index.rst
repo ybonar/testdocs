@@ -24,7 +24,6 @@ The main documentation for the site is organized into a couple sections:
 
 * :ref:`about-docs`
 * :ref:`feature-docs`
-* :ref:`about-docs`
 
 Information about development is also available:
 
