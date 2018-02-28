@@ -20,6 +20,8 @@ The main documentation for the site is organized into a couple sections:
    whatsnew.md
    quickstart.md
    fag.md
+   flavors.md
+   images.md
 
 .. _bestpractice-docs:
 
