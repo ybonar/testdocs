@@ -36,7 +36,7 @@ Information about development is also available:
    :maxdepth: 2
    :caption: About SIM-Cloud
 
-   quick-start.md
+   quick-start
    
 .. _best-practice-docs:
 
