@@ -23,6 +23,7 @@ The code is open source, and `available on GitHub`_.
 The main documentation for the site is organized into a couple sections:
 
 * :ref:`about-docs`
+* :ref:`bestpractice-docs`
 
 .. _about-docs:
 
@@ -31,3 +32,9 @@ The main documentation for the site is organized into a couple sections:
    :caption: About SIM-Cloud
 
    about.md
+
+.. _bestpractice-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Best practice Guide
