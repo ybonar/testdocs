@@ -1,2 +1,10 @@
 ## Ceilometer
 ## Cinder
+## Designate
+## Duratus
+## Glance
+## Horizon
+## Keystone
+## Magnum
+## Neutron
+## Nova

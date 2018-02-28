@@ -48,3 +48,19 @@ The main documentation for the site is organized into a couple sections:
    :caption: Troubleshooting
 
    troubleshooting.md
+
+.. _services-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Openstack Services
+
+   openstack-services.md
+
+.. _api-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: API
+
+   api.md
