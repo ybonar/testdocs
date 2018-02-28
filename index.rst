@@ -40,3 +40,11 @@ The main documentation for the site is organized into a couple sections:
    :caption: Best practice Guide
 
    bestpc-security.md
+
+.. _troubleshooting-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Troubleshooting
+
+   troubleshooting.md
