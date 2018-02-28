@@ -3,13 +3,6 @@ Welcome to SIM-Cloud
 
 The main documentation for the site is organized into a couple sections:
 
-* :ref:`about-docs`
-* :ref:`bestpractice-docs`
-* :ref:`troubleshooting-docs`
-* :ref:`services-docs`
-* :ref:`api-docs`
-* :ref:`limitations-docs`
-
 .. _about-docs:
 
 .. toctree::
