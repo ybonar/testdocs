@@ -22,6 +22,7 @@ The main documentation for the site is organized into a couple sections:
    fag.md
    flavors.md
    images.md
+   region-availability-zone.md
 
 .. _bestpractice-docs:
 
