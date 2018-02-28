@@ -31,7 +31,7 @@ Information about development is also available:
 * :ref:`dev-docs`
 * :ref:`design-docs`
 
-.. _user-docs:
+.. _about-docs:
 
 .. toctree::
    :maxdepth: 2
