@@ -38,23 +38,6 @@ Information about development is also available:
 
    quick-start.md
    
-.. _best-practice-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: About Read the Docs
-
-   contribute
-   team
-   gsoc
-   code-of-conduct
-   ethical-advertising
-   sponsors
-   open-source-philosophy
-   story
-   abandoned-projects
-   dmca/index
-
 .. _feature-docs:
 
 .. toctree::
