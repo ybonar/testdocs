@@ -16,6 +16,7 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: About SIM-Cloud
 
+   about.md
    quick-start.md
 
 .. _bestpractice-docs:
