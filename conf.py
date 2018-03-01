@@ -48,7 +48,7 @@ extensions = ['sphinx.ext.autodoc', 'sphinx.ext.intersphinx']
 templates_path = ['.templates']
 
 # The suffix of source filenames.
-source_suffix = '.rst'
+source_suffix = ['.rst', '.md']
 
 # The master toctree document.
 master_doc = 'index'
