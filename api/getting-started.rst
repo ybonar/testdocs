@@ -4,6 +4,6 @@ Getting Started
 ===============
 
 
-.. code-block:: bash
-
-   api/api-rc
+.. literalinclude:: api/api-rc
+   :language: bash
+   :linenos:
