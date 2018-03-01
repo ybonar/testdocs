@@ -1,6 +1,6 @@
 .. _whatsnew:
 
-What's new in SIM-Cloud 3.0
+What's new in SIM-Cloud
 ===========================
 
 Openstack
