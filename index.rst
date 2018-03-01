@@ -38,6 +38,19 @@ The main documentation for the site is organized into a couple sections:
 
    troubleshooting
 
+
+.. _sim-cloud-services:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: SIM-Cloud Services
+
+   compute
+   storage
+   neutwork
+   baas
+
+
 .. _services-docs:
 
 .. toctree::
