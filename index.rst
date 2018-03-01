@@ -15,6 +15,7 @@ The main documentation for the site is organized into a couple sections:
    faq
    flavors
    images
+   storage
    region-availability-zone
    migrations
 
