@@ -1,4 +1,8 @@
-## About SIM-Cloud
+.. _about:
+
+About SIM-Cloud
+===============
+
 ### Description
 ### Architecture
 ### Security
