@@ -121,9 +121,9 @@ rst_epilog = """
 # Options for HTML output
 # -----------------------
 
-html_theme_path = ['../_themes']
-html_theme = 'srtd'
-html_short_title = 'Ansible Documentation'
+#html_theme_path = ['../_themes']
+#html_theme = 'srtd'
+html_short_title = 'SIM-Cloud Documentation'
 
 # The style sheet to use for HTML and HTML Help pages. A file of that name
 # must exist either in Sphinx' static/ path, or in one of the custom paths
