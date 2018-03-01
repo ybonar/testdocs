@@ -4,6 +4,6 @@ Getting Started
 ===============
 
 
-.. literalinclude:: api/api-rc
+.. literalinclude:: api-rc
    :language: bash
    :linenos:
