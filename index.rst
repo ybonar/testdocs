@@ -10,12 +10,12 @@ The main documentation for the site is organized into a couple sections:
    :caption: About SIM-Cloud
 
    about
-   whatsnew.md
-   quickstart.md
-   fag.md
-   flavors.md
-   images.md
-   region-availability-zone.md
+   whatsnew
+   quickstart
+   fag
+   flavors
+   images
+   region-availability-zone
 
 .. _bestpractice-docs:
 
