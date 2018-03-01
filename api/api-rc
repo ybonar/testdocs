@@ -1,0 +1,14 @@
+unset OS_TOKEN
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USER_DOMAIN_NAME=default
+export OS_USERNAME={your-login}
+export OS_PASSWORD={your-password}
+export OS_PROJECT_NAME=$OS_USERNAME
+export OS_IDENTITY_API_VERSION=3
+export PS1='[\u@\h (SIM-CLOUD API)]\$ '
+export OS_API="https://api.sim-cloud.net"
+export OS_AUTH_URL=$OS_API":5000/v3"
+export OS_COMPUTE_URL=$OS_API":8774/v2.1"
+export OS_STORAGE_URL=$OS_API":8776/v3"
+export OS_IMAGE_URL=$OS_API":9292/v2"
+export OS_NETWORK_URL=$OS_API":9696/v2.0"
