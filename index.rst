@@ -45,6 +45,15 @@ The main documentation for the site is organized into a couple sections:
    :caption: Openstack Services
 
    ceilometer
+   cinder
+   designate
+   duratus
+   glance
+   horizon
+   keystone
+   magnum
+   neutron
+   nova
 
 .. _api-docs:
 
