@@ -1,0 +1,4 @@
+.. _flavors:
+
+Instance Flavors
+================
