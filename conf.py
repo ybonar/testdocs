@@ -98,9 +98,9 @@ exclude_patterns = ['modules']
 # show_authors = False
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+#pygments_style = 'sphinx'
 
-highlight_language = 'YAML+Jinja'
+#highlight_language = 'YAML+Jinja'
 
 # Substitutions, variables, entities, & shortcuts for text which do not need to link to anything.
 # For titles which should be a link, use the intersphinx anchors set at the index, chapter, and section levels, such as  qi_start_:
@@ -132,7 +132,7 @@ html_short_title = 'SIM-Cloud Documentation'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Ansible Documentation'
+html_title = 'SIM-Cloud Documentation'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 # html_short_title = None
