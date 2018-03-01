@@ -1,4 +1,7 @@
-## Index
+.. _limitations:
+
+Limitations
+=========
 
 .. code-block:: yaml
 
