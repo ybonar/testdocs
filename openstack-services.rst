@@ -1,0 +1,31 @@
+.. _openstack-services
+
+Telemetry Service (Ceilometer)
+==============================
+
+Block Storage Service (Cinder)
+==============================
+
+DNS as s Service (Designate)
+============================
+
+Backup Service (Duratus)
+========================
+
+Image Service (Glance)
+======================
+
+Web Panel (Horizon)
+===================
+
+Identity Service (Keystone)
+===========================
+
+Container Orchestration Service (Magnum)
+========================================
+
+Networking Service (Neutron)
+============================
+
+Compute Service (Nova)
+======================
