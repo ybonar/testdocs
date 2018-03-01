@@ -18,6 +18,7 @@ The main documentation for the site is organized into a couple sections:
    storage
    region-availability-zone
    migrations
+   web-panel-overview
 
 .. _bestpractice-docs:
 
