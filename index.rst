@@ -30,15 +30,6 @@ The main documentation for the site is organized into a couple sections:
    bestpc-storage
    bestpc-backup-restore
 
-.. _troubleshooting-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Troubleshooting
-
-   troubleshooting
-
-
 .. _sim-cloud-services:
 
 .. toctree::
@@ -84,3 +75,12 @@ The main documentation for the site is organized into a couple sections:
    :caption: Limitations
 
    limitations
+
+
+.. _troubleshooting-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Troubleshooting
+
+   troubleshooting
