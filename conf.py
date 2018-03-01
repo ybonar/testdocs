@@ -15,8 +15,8 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "readthedocs.settings.dev")
 from django.conf import settings
 from django.utils import timezone
 
-import django
-django.setup()
+#import django
+#django.setup()
 
 
 sys.path.append(os.path.abspath('_ext'))
