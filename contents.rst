@@ -1,1 +1,4 @@
-dsafds
+.. _inventory:
+
+Inventory
+=========
