@@ -67,6 +67,7 @@ The main documentation for the site is organized into a couple sections:
 
    api
    api/getting-started
+   openstack-cli
 
 .. _limitations-docs:
 
