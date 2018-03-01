@@ -7,4 +7,3 @@ Official openstack api documentation: https://developer.openstack.org/api-guide/
 
 .. literalinclude:: api-rc
    :language: bash
-   :linenos:
