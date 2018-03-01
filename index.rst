@@ -12,7 +12,7 @@ The main documentation for the site is organized into a couple sections:
    about
    whatsnew
    quickstart
-   fag
+   faq
    flavors
    images
    region-availability-zone
