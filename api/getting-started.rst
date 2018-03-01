@@ -10,3 +10,7 @@ Create file ``api-rc``:
 
 .. literalinclude:: api-rc
    :language: bash
+
+.. code-block:: bash
+
+   source api-rc
