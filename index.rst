@@ -23,12 +23,12 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: Best practice Guide
 
-   bestpc-security.md
-   bestpc-instances.md
-   bestpc-resource-management.md
-   bestpc-networks.md
-   bestpc-storage.md
-   bestpc-backup-restore.md
+   bestpc-security
+   bestpc-instances
+   bestpc-resource-management
+   bestpc-networks
+   bestpc-storage
+   bestpc-backup-restore
 
 .. _troubleshooting-docs:
 
@@ -36,7 +36,7 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: Troubleshooting
 
-   troubleshooting.md
+   troubleshooting
 
 .. _services-docs:
 
@@ -44,7 +44,7 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: Openstack Services
 
-   openstack-services.md
+   openstack-services
 
 .. _api-docs:
 
@@ -52,8 +52,8 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: API
 
-   api.md
-   api/getting-started.md
+   api
+   api/getting-started
 
 .. _limitations-docs:
 
