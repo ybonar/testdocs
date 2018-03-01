@@ -7,5 +7,6 @@ Official openstack api documentation: https://developer.openstack.org/api-guide/
 
 
 Create file 'api-rc':
+
 .. literalinclude:: api-rc
    :language: bash
